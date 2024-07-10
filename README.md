@@ -9,21 +9,18 @@
 
 - 🔭 I’m currently working on **project**
 
-- 🌱 I’m currently learning **Python, Spring Boot**
+- 🌱 I’m currently learning **Python, DataScience**
 
 - 👯 I’m looking to collaborate on **project**
 
 - 🤝 I’m looking for help with **project**
 
-- 👨‍💻 All of my projects are available at [https://hashnode.com/@kasenda](https://hashnode.com/@kasenda)
+- 👨‍💻 All of my projects are available at https://github.com/VikingVictor/
 
-- 📝 I regularly write articles on [https://hashnode.com/@kasenda](https://hashnode.com/@kasenda)
+- 💬 Ask me about **react, angular, Vue, Laravel, Yii, WordPress Tailwindcss**
 
-- 💬 Ask me about **react, angular, Vue, Laravel, Tailwindcss, Liwewire, Filament**
+- 📫 How to reach me **fredikwebking@gmail.com**
 
-- 📫 How to reach me **tresorkasendat@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/tresor-kasendat/](https://www.linkedin.com/in/tresor-kasendat/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
